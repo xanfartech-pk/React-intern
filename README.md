@@ -1,16 +1,17 @@
-# React + Vite
+# About School CMS Web & App Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**School CMS Web & App Portal** is a comprehensive educational management system designed to streamline the administrative, academic, and communication processes of schools and institutes. Built with **React.js** for the frontend and optimized for responsive web and mobile applications, this platform empowers institutions to manage students, teachers, classes, attendance, and academic progress efficiently.
 
-Currently, two official plugins are available:
+## Key Features
+- **Student Management:** Track student profiles, enrollments, and performance.
+- **Teacher Management:** Manage staff profiles, classes, and schedules.
+- **Dashboard & Analytics:** Real-time insights for admins to monitor school performance.
+- **Attendance & Reports:** Simplified attendance tracking and automated reporting.
+- **Multi-Platform Access:** Fully functional on web and mobile devices.
+- **Secure & Scalable:** Modern architecture ensures data security and scalability as the institution grows.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is intended as a professional-grade **educational CMS** to facilitate smooth academic operations and enhance communication between staff, students, and management. It is perfect for schools looking for an organized, digital-first solution to manage their day-to-day operations.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Developed and maintained by **Xanfar Tech**, with contributions from a team of skilled developers focused on building modern, efficient, and user-friendly educational platforms.
